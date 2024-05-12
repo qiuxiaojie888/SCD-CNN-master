@@ -20,7 +20,7 @@ python get_patch_wdc_test.py
 * Set python environment
 * Train example:
 ```bash
-python .\train.py --config-file .\gauss_blind_config.yaml
+python .\train.py --config-file .\gauss_25_config.yaml
 ```
 * Test example: 
 ```bash
